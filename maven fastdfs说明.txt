@@ -1,0 +1,1 @@
+如果idea maven仓库没有引入fastdfs包，需要手动进行mvn clean install，在加入
